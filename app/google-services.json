@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555366995793",
+    "project_id": "my-app-bf0fe",
+    "storage_bucket": "my-app-bf0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555366995793:android:e0dc468b6ddf93706ce570",
+        "android_client_info": {
+          "package_name": "com.aavaros.whatsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555366995793-9el2j70j6an75uqatahrefbpn8bpnfk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aavaros.whatsup",
+            "certificate_hash": "d02898a6025210f32c7f446a0905e232dba6ba8e"
+          }
+        },
+        {
+          "client_id": "555366995793-go00a3v7pepodllls7gf5p9og16a2la5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXCVyLrnJx9snm32BdNodrvJjY-32XME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555366995793-go00a3v7pepodllls7gf5p9og16a2la5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

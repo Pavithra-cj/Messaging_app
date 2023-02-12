@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WhatsUp</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="add_image">Add Image</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="telephone">Telephone</string>
+    <string name="otp_verification">OTP verification</string>
+    <string name="otp_text">We will send you the OTP to your email shortly.</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="v_otp">Enter the OTP sent to</string>
+    <string name="didn_t_get_the_code">Didn\'t Get the Code.</string>
+    <string name="resend">RESEND</string>
+    <string name="verify">Verify</string>
+    <string name="email_verification">Email Verification</string>
+    <string name="email_ins">We will send you a email verification shortly.</string>
+</resources>
